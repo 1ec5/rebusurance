@@ -1,8 +1,8 @@
 # Rebusurance
 
-<img src="usroute.png" width="128" alt="">
-
 Rebusurance is a suite of image assets for displaying [highway shields](https://en.wikipedia.org/wiki/Highway_shield) in software user interfaces. Included in this repository is a single [PaintCode](https://www.paintcodeapp.com/) document that contains various shields for routes in the United States. Each shield is scalable, simultaneously accommodating variations in screen resolution, font size, and route number length. The designs are loosely based on the specifications in the _[Manual on Uniform Traffic Control Devices](https://en.wikipedia.org/wiki/Manual_on_Uniform_Traffic_Control_Devices)_ (MUTCD) as implemented [in Wikimedia Commons template images](https://commons.wikimedia.org/wiki/Category:Highway_shield_templates), including some state-specific variants.
+
+![](img/canvas.png)
 
 This project’s design goals are:
 
@@ -11,6 +11,8 @@ This project’s design goals are:
 1. Resemble the design most commonly seen on signage, preferably guide signs.
 
 The name of this project is a play on the words _[rebus](https://en.wikipedia.org/wiki/Rebus)_ and _reassurance_, as in [reassurance marker](https://en.wikipedia.org/wiki/Reassurance_marker). Just as rebuses are icons displayed inline within a sentence, rebusurance images are best suited for running text, such as within a turn banner or step table in a turn-by-turn navigation application.
+
+<img src="img/inline-example.png" width="128" alt="">
 
 ## Setup
 
